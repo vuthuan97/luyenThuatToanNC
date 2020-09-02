@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Threadl", "Thread\Threadl.csproj", "{FF0FE108-1332-428B-A5CD-28B2A1AB6B6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "solution.chucnangWeb", "solution.chucnangWeb\solution.chucnangWeb.csproj", "{1D14F33F-8001-40FE-BD38-0B2429A205C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF0FE108-1332-428B-A5CD-28B2A1AB6B6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF0FE108-1332-428B-A5CD-28B2A1AB6B6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF0FE108-1332-428B-A5CD-28B2A1AB6B6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF0FE108-1332-428B-A5CD-28B2A1AB6B6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D14F33F-8001-40FE-BD38-0B2429A205C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D14F33F-8001-40FE-BD38-0B2429A205C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D14F33F-8001-40FE-BD38-0B2429A205C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D14F33F-8001-40FE-BD38-0B2429A205C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59D806A0-263E-4E8D-9B56-D89FB5E9FCF1}
+	EndGlobalSection
+EndGlobal
